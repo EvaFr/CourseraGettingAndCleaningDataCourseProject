@@ -3,7 +3,6 @@ title: "CodeBook"
 date: "12/30/2021"
 ---
 # CodeBook for Getting and Cleaning Data Course Project
-
 ## Variables
 
     - features contains the data of the features.txt
