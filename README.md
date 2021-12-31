@@ -1,12 +1,10 @@
 ---
 title: "ReadMe"
-author: "EvaFr"
 date: "12/30/2021"
-output: html_document
 ---
 
-## R Markdown
 **Getting and Cleaning Data Course Project**
+**Peer-graded Assignment: Getting and Cleaning Data Course Project**
 
 This repository hosts the R code and documentation files for the course "Getting and Cleaning data"
 
@@ -19,6 +17,9 @@ This repository hosts the R code and documentation files for the course "Getting
     Appropriately labels the data set with descriptive variable names. 
 
     From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+##Dataset
+    https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
 
 ##Files
 
